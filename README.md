@@ -51,7 +51,7 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
   - 10:15-12: [Lab 6: Building Intelligent Bots](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/0_README.md)
   - 12-1: Lunch
   - 1-2:  [Lab 7: Bot Logging](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.3-logging_chat_conversations/0_README.md)
-  - 2-3: [Lab 8: Bot Testing](https://github.com/Azure/LearnAI-Bootcamp/tree/master/lab02.4-testing_bots)
+  - 2-3: [Lab 8: Bot Testing](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.4-testing_bots/0_README.md)
   - 3-4: Day 2 Case: [Bot Architectures](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/04-architectures/2_activity.md)
   - 4-5: Discussion/Presentations: Days 1+2 Cases
 - Day 3: Knowledge Mining and Final Case
