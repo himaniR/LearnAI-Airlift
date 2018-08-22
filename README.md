@@ -21,9 +21,6 @@ At the end of this 300-level workshop, you should be able to:
 - Perform rapid development/testing with Ngrok and test your bots with unit tests and direct bot communication
 - Effectively leverage the custom vision service to create image classification services that can then be leveraged by an application
 
-# Azure Access
-We will not be providing Azure passes for this workshop. If you do not have the ability to create resources and spend money on Azure, you will not be able to participate.
-
 # Breaks
 
 This is an airlift where we are trying to cover as much material as possible. As such, we will not be providing scheduled breaks (apart from lunch). Feel free to step out to take a break as needed (preferably if you finish a lab early), but the airlift will continue.  
@@ -34,7 +31,7 @@ This is an airlift where we are trying to cover as much material as possible. As
 Please note: This is a rough agenda, and the schedule is subject to change pending class activities and interaction. Also note that the numbering here will not always be the same as the numbering in the references. This airlift is a combination of several courses.
 
 - Day 1: Cognitive Services
-  - 8:30-9:15: [Setup](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/1_Setup.md)
+  - 8:30-9:15: Setup
   - 9:15-10: [Cognitive Services](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/05-cognitive_services/1_session.ipynb) and [PictureBot Introduction](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
   - 10-12: [Lab 1: Computer Vision](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
   - 12-1: Lunch
@@ -62,7 +59,7 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
   - 10:30-11:30: [Lab 10: Cognitive Search II: Image Skills](https://github.com/Azure/LearnAI-Cognitive-Search/blob/master/05-Lab-2-Image-Skills.md)
     - Have extra time? Check out the [Challenge: Custom Skills](https://github.com/Azure/LearnAI-Cognitive-Search/blob/master/06-Lab-3-Custom-Skills.md)
   - 11:30-12: Final Case: [Introduction](./final_case.md)
-  - 12-1:
+  - 12-1: Lunch
   - 1-3: Final Case: Working time
   - 3-4: Final Case: Presentations
   - 4-5: Airlift Q&A and Feedback
