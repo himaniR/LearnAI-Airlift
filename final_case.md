@@ -6,21 +6,21 @@
 This culminating activity will allow you and your group to get hands-on experience designing and architecting an intelligent agent from end-to-end. The output of this activity is for attendees to work together and build on what they've learned to design and architect an intelligent agent.  
 ## Case Study
 
-Contoso Vineyard is a relatively new vineyard that is gaining popularity quickly due to several factors. One reason is that Contoso Vineyard operates on a subscription model, so the more months a customer commits to, the higher the discount. They also take pride in their award-winning customer service – every month, each subscriber can log into the website and chat with someone who will personally help them customize the following month’s order, based on their past orders, general preferences, and what’s available that month. These chats can be long and winding as customers change their minds often, want information repeated, or want agents to look up a previous order that may have occurred months ago. With the growing popularity of the Contoso Vineyard, the company is finding it is greatly understaffed and unable to handle the current volumes. They have already started to see the repercussions of this, as customer wait times have increased from an average of three minutes to seven minutes over the course of the last month. Contoso Vineyard already runs on Azure – their customers authenticate with Azure B2C, their customer information is stored in Dynamics CRM, and their inventory information is stored and updated in CosmosDB. In addition to the inventory information they keep updated in CosmosDB, they also have a collection of photos of all of the wine bottles (with their bottle labels intact and visible) that they've ever had in stock, stored in an Azure Blob storage account.
- 
-Contoso Vineyard is very concerned and has reached out to your group to design and architect an intelligent solution that can help them address the problems they’re facing as their business grows further (and across borders to Latin America next year), without sacrificing their commitment to quality customer service.
-
+A hotel chain CEO recently announced in a trade magazine that she is looking to enhance the customer experience by augmenting their in-person concierge service by embedding bot capabilities into their member services mobile app. The hotel guest reservations are held within an Azure SQL Database which contains the dates and the hotel location of the guest that is presented to the application. The bot is intended to handle the common request that guest will make such as setting up wake up calls, ordering services such as a pool cabana or spa session, or handling cab reservations with their in-house cab company. Therefore, the bot should be able to offer to book these services, providing a choice on dates and durations. The intention is to free up the real concierge’s time to focus on informing guest about the local area using local knowledge. It is critical that access to the bot is secured. The hotel chain is a Microsoft Shop. Their network is setup using AD, the databases using SQL Server and cloud applications developed in .Net in Azure. The CFO and CIO has made budget available for this project to be delivered within 6 months.
 
 
 ## Exercise
 
-Using what you've learned throughout the course, develop a potential bot design and architecture. Think about the bot design and what four problems you would like the bot to solve. Next, come up with a LUIS schema design that will help you address the problems. In addition, come up with an architecture and what other services/enhancements you could integrate.  
+Using what you've learned throughout the airlift, develop a potential bot design and architecture. Think about the bot design and what problems you would like the bot to solve. Next, come up with a LUIS schema design that will help you address the problems. In addition, come up with an architecture and what other services/enhancements you could integrate.  
 
 If you choose to use Cognitive Search in your solution, develop a potential Cognitive Search enrichment pipeline plan that contains how you will gather the documents, what cognitive skills you may use (predefined and custom), the skills sequence, how you'll integrate it into the larger solution, and any other details you think are important to call out.  
 
+Time-permitting, your group is encouraged to create a simple POC or some mock conversations ([this resource may help](https://github.com/Microsoft/botbuilder-tools/tree/master/packages/Chatdown)) to present.
+
 Your group should be ready to present. Feel free to use any of the materials you've used thus far including but not limited to:
-- [LearnAI: Bootcamp]()
-- [LearnAI: Designing and Architecting Intelligent Agents]()
-- [LearnAI: Cognitive Search Workshop]()
-- [DAAIA resources](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/tree/master/resources)
+- [LearnAI: Bootcamp](https://github.com/Azure/LearnAI-Bootcamp)
+- [LearnAI: Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningAndArchitectingIntelligentAgents)
+- [LearnAI: Cognitive Search Workshop](https://github.com/Azure/LearnAI-Cognitive-Search)
+- [Designing and Architecting Intelligent resources and template files](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/tree/master/resources)
+- [Enterprise Bot Template](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0)
 
