@@ -59,12 +59,12 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
   - 5-6: LearnAI Office Hours
   
 - Day 3: Knowledge Mining and Final Case
-  - 8:30-9: Recap, Cognitive Search [Introduction](https://github.com/Azure/LearnAI-Cognitive-Search/blob/master/01-Introduction.md), and [Lab Architecture](https://github.com/Azure/LearnAI-Cognitive-Search/blob/master/02-Solution-Architecture.md)
+  - 8:30-9: Recap, Cognitive Search [Introduction](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/resources/md-files/introduction.md), and [Lab Architecture](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/resources/md-files/solution-architecture.md)
   - 9-10: [Environment Creation](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-environment-creation.md) and [Lab 8: Cognitive Search I: Text Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-text-skills.md)
   - 10-11: [Lab 9: Cognitive Search II: Image Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-image-skills.md)
     - Have extra time? Check out the [Challenge: Custom Skills-Translator](https://github.com/Azure/LearnAI-Cognitive-Search/blob/master/06-Lab-3-Custom-Skills.md) or [Challenge: Custom Skills-Content Moderator](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-custom-skills.md)
   - 11-11:15: Break
-  - 11:15-12: Final Case: [Introduction](./final_case.md)
+  - 11:15-12: Final Case: [Introduction](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-final-case.md)
   - 12-1: Lunch
   - 1-3: Final Case: Working time
   - 3-4: Final Case: Presentations
