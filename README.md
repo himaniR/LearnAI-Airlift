@@ -28,7 +28,7 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
 
 - Day 1: Cognitive Services
   - 8:30-9:15: Setup
-  - 9:15-10: [Cognitive Services](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/05-cognitive_services/1_session.md) and [PictureBot Introduction](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
+  - 9:15-10: [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/directory/) and [PictureBot Introduction](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
   - 10-11: [Lab 1: Computer Vision](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
   - 11-11:15: Break
   - 11:15-12: [Lab 1: Computer Vision](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md) (continued)
@@ -62,7 +62,7 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
   - 8:30-9: Recap, Cognitive Search [Introduction](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/resources/md-files/introduction.md), and [Lab Architecture](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/resources/md-files/solution-architecture.md)
   - 9-10: [Environment Creation](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-environment-creation.md) and [Lab 8: Cognitive Search I: Text Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-text-skills.md)
   - 10-11: [Lab 9: Cognitive Search II: Image Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-image-skills.md)
-    - Have extra time? Check out the [Challenge: Custom Skills-Translator](https://github.com/Azure/LearnAI-Cognitive-Search/blob/master/06-Lab-3-Custom-Skills.md) or [Challenge: Custom Skills-Content Moderator](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-custom-skills.md)
+    - Have extra time? Check out the [Challenge: Custom Skills-Content Moderator](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-custom-skills.md)
   - 11-11:15: Break
   - 11:15-12: Final Case: [Introduction](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-final-case.md)
   - 12-1: Lunch
