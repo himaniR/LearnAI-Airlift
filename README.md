@@ -18,7 +18,7 @@ All labs have an approximate duration of 1 hour and start with an introduction o
 
 ### Day 1
 
-  - Setup, Opening
+- Setup, Opening
   - [Cognitive Services Overview](https://azure.microsoft.com/en-us/services/cognitive-services/directory/)
   - [Intelligent Search Solution Architecture](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
   - [Lab 1: Computer Vision](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/2_ImageProcessor.md)
@@ -30,7 +30,7 @@ All labs have an approximate duration of 1 hour and start with an introduction o
 
 ### Day 2
 
-  - [Bot Architectures](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/04-architectures/1_session.md)
+- [Bot Architectures](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/04-architectures/1_session.md)
   - [Lab 6: Building Intelligent Bot](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/0_README.md)
   - [Lab 7: Bing Search](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.3-bing_search/0_README.md)
   - [Cognitive Search Introduction](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/resources/md-files/introduction.md)
@@ -40,7 +40,7 @@ All labs have an approximate duration of 1 hour and start with an introduction o
   
 ### Day 3
 
-  - [Lab 8: Cognitive Search - Text Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-text-skills.md)
+- [Lab 8: Cognitive Search - Text Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-text-skills.md)
   - [Lab 9: Cognitive Search - Image Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-image-skills.md)
   - [Lab 10: Cognitive Search - Custom Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-custom-skills.md)
   - [Lab 11: Cogntive Search Bot](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-bot-business-documents.md)
