@@ -30,7 +30,7 @@ All labs have an approximate duration of 1 hour and start with an introduction o
 
 ### Day 2
 
-- [Bot Architectures](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/04-architectures/1_session.md)
+  - [Bot Architectures](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/04-architectures/1_session.md)
   - [Lab 6: Building Intelligent Bot](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/0_README.md)
   - [Lab 7: Bing Search](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.3-bing_search/0_README.md)
   - [Cognitive Search Introduction](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/resources/md-files/introduction.md)
