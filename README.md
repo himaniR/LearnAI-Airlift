@@ -40,10 +40,11 @@ All labs have an approximate duration of 1 hour and start with an introduction o
   
 ### Day 3
 
-- [Lab 8: Cognitive Search - Text Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-text-skills.md)
-  - [Lab 9: Cognitive Search - Image Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-image-skills.md)
-  - [Lab 10: Cognitive Search - Custom Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-custom-skills.md)
-  - [Lab 11: Cogntive Search Bot](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-bot-business-documents.md)
+  - [Lab 8: Azure Search](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-azure-search.md)
+  - [Lab 9: Cognitive Search - Text Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-text-skills.md)
+  - [Lab 10: Cognitive Search - Image Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-image-skills.md)
+  - [Lab 11: Cognitive Search - Custom Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-custom-skills.md)
+  - [Lab 12: Cogntive Search Bot](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-bot-business-documents.md)
   - [Final Case](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-final-case.md)
   - Airlift Discussion, Q&A, and Feedback
 
