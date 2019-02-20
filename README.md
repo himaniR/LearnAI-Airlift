@@ -18,7 +18,7 @@ All labs have an approximate duration of 1 hour and start with an introduction o
 
 ### Day 1
 
-- Setup, Opening
+  - Setup, Opening
   - [Cognitive Services Overview](https://azure.microsoft.com/en-us/services/cognitive-services/directory/)
   - [Intelligent Search Solution Architecture](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
   - [Lab 1: Computer Vision](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/2_ImageProcessor.md)
