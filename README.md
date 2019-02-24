@@ -52,6 +52,28 @@ All labs have an approximate duration of 1 hour and start with an introduction o
 
 Check out the all of our [LearnAI courses](https://aka.ms/lap) and [our team's site](https://learnanalytics.microsoft.com/home/index) to find upcoming trainings, Training Partners and more.
 
+## Contact
+
+Contact us: LearnAI@microsoft.com and http://aka.ms/LearnAI-GitHub
+
+## Certifications
+
+The LearnAI team had intense participation in the creation of the following new Microsoft certifications:
+
++ Azure Data Engineer​
+  + DP-200: Implementing an Azure Data Solution ​
+  + 80% off discount code thru Mar 12, 2019: DP200BigTrips​
+  + DP-201: Designing an Azure Data Solutions​
+  + 80% off discount code thru Mar 12, 2019: DP201Walks​
+
++ Azure AI Engineer​
+  + AI-100: Designing and Implementing an Azure AI Solution ​
+  + 80% off discount code thru Mar 5, 2019: AI100Goals​
+
++ Azure Data Scientist ​
+  + DP-100: Designing and Implementing a Data Science Solution on Azure​
+  + 80% off discount code thru Mar 7, 2010: DP100KLS​
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
