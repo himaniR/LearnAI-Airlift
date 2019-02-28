@@ -1,6 +1,11 @@
-# Welcome to the AI Airlift: Intelligent Apps+Agents
+# Apps & Agents / Knowledge Mining
+
+![Header](./slides/header.png)
+
+## Welcome to the AI Airlift: Intelligent Apps+Agents
 
 Welcome to this three-day AI Airlift focused on Intelligent Apps/Agents and Knowledge Mining. In these three days, we will focus on hands-on activities that develop proficiency in AI-oriented services such as Azure Bot Services, Azure Search (including Cognitive Search), and Cognitive Services. Additionally, we will provide various design and architecture guidance/activities so you are not only able to build POC/solutions, but so you are also able to architect and design them.  
+
 
 ## Goals
 
@@ -54,7 +59,7 @@ Check out the all of our [LearnAI courses](https://aka.ms/lap) and [our team's s
 
 ## Contact
 
-Contact us: LearnAI@microsoft.com and http://aka.ms/LearnAI-GitHub
+Contact us: LearnAI@microsoft.com and <http://aka.ms/LearnAI-GitHub>
 
 ## Certifications
 
