@@ -52,7 +52,7 @@ All labs have an approximate duration of 1 hour and start with an introduction o
   - [Lab 10: Cognitive Search - Image Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-image-skills.md)
   - [Lab 11: Cognitive Search - Custom Skills](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-custom-skills.md)
   - [Lab 12: Cogntive Search Bot](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-bot-business-documents.md)
-  - [Final Case](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-final-case.md)
+  - [Final Case / Hackathon](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp/blob/master/labs/lab-final-case.md)
   - Airlift Discussion, Q&A, and Feedback
 
 ## Further Learning
